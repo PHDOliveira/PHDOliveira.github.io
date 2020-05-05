@@ -121,9 +121,12 @@ table {
   margin: 15px;
 }
 .images img {
-  width: 450px;
-  height: 450px;
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  margin: 5px;
 }
+
 .images {
   display: flex;
   justify-content: space-evenly;
