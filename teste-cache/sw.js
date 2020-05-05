@@ -11,12 +11,8 @@ workbox.core.clientsClaim()
 // We inject manifest here using "workbox-build" in workbox-build-inject.js
 workbox.precaching.precacheAndRoute([
   {
-    "url": "index.html",
-    "revision": "32af0b65aed235cc7badd4ee4275664a"
-  },
-  {
     "url": "scripts/script.js",
-    "revision": "fccde25a8566ff39099ee83c83f6cf8b"
+    "revision": "fa6a91b50b885372a0bdec8c65ffed86"
   },
   {
     "url": "style.css",
