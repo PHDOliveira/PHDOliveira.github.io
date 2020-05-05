@@ -12,7 +12,7 @@ workbox.core.clientsClaim()
 workbox.precaching.precacheAndRoute([
   {
     "url": "scripts/script.js",
-    "revision": "fa6a91b50b885372a0bdec8c65ffed86"
+    "revision": "d75cda0f1e2235941dc8f12b82558633"
   },
   {
     "url": "style.css",
